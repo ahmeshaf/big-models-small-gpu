@@ -8,7 +8,6 @@
   
 </div>
 
-<br />
 
 
 # big-models-small-gpu
